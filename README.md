@@ -19,6 +19,6 @@
     src="https://raw.githubusercontent.com/ATLURI0001/ATLURI0001/main/security-tools-footer.gif"
     alt="Security Tools Footer"
     width="100%"
-    height="130"
+    height="70"
   />
 </div>
