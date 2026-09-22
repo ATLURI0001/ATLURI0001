@@ -12,13 +12,4 @@
     alt="Bottom Line"
     width="100%"
   />
-
-  <br>
-
-  <img
-    src="https://raw.githubusercontent.com/ATLURI0001/ATLURI0001/main/security-tools-footer.gif"
-    alt="Security Tools Footer"
-    width="100%"
-    height="70"
-  />
 </div>
