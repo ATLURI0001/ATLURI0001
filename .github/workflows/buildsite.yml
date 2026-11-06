@@ -1,0 +1,26 @@
+name: BuildSite
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Evolve Property
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Evolve BuildSite Property
+        uses: ATLURI0001/BuildSite@main
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_dir: "assets/buildsite"
+          commit_message: "chore(buildsite): update property evolution [skip ci]"
