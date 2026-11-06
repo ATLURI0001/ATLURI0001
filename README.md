@@ -6,18 +6,23 @@
 
 ## 🏡 My GitHub Builds My Home
 
-<a href="https://atluri0001.github.io/BuildSite/" title="Click to rotate house in 3D with your cursor">
-  <img src="assets/buildsite/buildsite.svg" alt="Ramprasad Atluri's Evolving Home" width="100%" />
-</a>
+<!-- 360° Continuous 3D Architectural Turntable Orbit (Rotates inline inside the README) -->
+<img src="assets/buildsite/buildsite_360.webp" alt="Ramprasad Atluri's 360° Evolving Luxury Estate" width="100%" />
 
 <br/>
 
-<a href="https://atluri0001.github.io/BuildSite/">
-  <img src="https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8F_Interact_in_3D-Click_%26_Drag_to_Rotate_360%C2%B0-0ea5e9?style=for-the-badge" alt="Rotate 3D Villa" />
-</a>
+**🔄 360° Architectural Turntable Orbit** • *Evolving live directly inside this README with every verified GitHub contribution.*
 
-<br/><br/>
+<br/>
 
-*Powered by [BuildSite](https://github.com/ATLURI0001/BuildSite) — Every verified GitHub contribution evolves this residence.*
+<details>
+<summary><b>📐 View High-Definition Architectural Plan & HUD Details</b></summary>
+<br/>
+<img src="assets/buildsite/buildsite.svg" alt="Ramprasad Atluri's Architectural Blueprint" width="100%" />
+</details>
+
+<br/>
+
+*Powered by [BuildSite](https://github.com/ATLURI0001/BuildSite) — **5,207** Verified Contributions • **Master Luxury Residential Estate**.*
 
 </div>
