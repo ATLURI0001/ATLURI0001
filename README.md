@@ -157,6 +157,96 @@ I am a **DevOps & Cloud Reliability Engineer** based in India, with hands-on pro
 
 ---
 
+## 📜 Professional Certifications & Verified Credentials
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/867b2a37-9623-4e0d-bd37-63f003c9350f">
+        <img src="assets/badges/aws-saa.png" width="115" alt="AWS Certified Solutions Architect Associate" />
+      </a><br/>
+      <b>AWS Solutions Architect</b><br/>
+      <sub>Associate &bull; Amazon Web Services</sub><br/>
+      <code>ID: 867b2a37...</code><br/><br/>
+      <a href="https://www.credly.com/badges/867b2a37-9623-4e0d-bd37-63f003c9350f">
+        <img src="https://img.shields.io/badge/Verify-Credly-FF9900?style=flat-square&logo=credly&logoColor=white" alt="Verify"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/566a1b33-7fb4-40a7-8434-2dc9ae396e50">
+        <img src="assets/badges/redhat-eap.png" width="115" alt="Red Hat Certified Specialist in Enterprise Application Development" />
+      </a><br/>
+      <b>Red Hat Specialist</b><br/>
+      <sub>Enterprise App Development</sub><br/>
+      <code>ID: 566a1b33...</code><br/><br/>
+      <a href="https://www.credly.com/badges/566a1b33-7fb4-40a7-8434-2dc9ae396e50">
+        <img src="https://img.shields.io/badge/Verify-Credly-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Verify"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/6a0ef4d3-6178-45d3-8f69-d42a3fbe3563">
+        <img src="assets/badges/aws-ccp.png" width="115" alt="AWS Certified Cloud Practitioner" />
+      </a><br/>
+      <b>AWS Cloud Practitioner</b><br/>
+      <sub>Foundational &bull; AWS</sub><br/>
+      <code>ID: 6a0ef4d3...</code><br/><br/>
+      <a href="https://www.credly.com/badges/6a0ef4d3-6178-45d3-8f69-d42a3fbe3563">
+        <img src="https://img.shields.io/badge/Verify-Credly-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="Verify"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/2476f521-9e70-416c-b468-781f3a8a39b7">
+        <img src="assets/badges/aviatrix-mcna.png" width="115" alt="Aviatrix Multicloud Network Associate" />
+      </a><br/>
+      <b>Multicloud Network Associate</b><br/>
+      <sub>ACE MCNA &bull; Aviatrix</sub><br/>
+      <code>ID: 2476f521...</code><br/><br/>
+      <a href="https://www.credly.com/badges/2476f521-9e70-416c-b468-781f3a8a39b7">
+        <img src="https://img.shields.io/badge/Verify-Credly-FF5C1A?style=flat-square&logo=credly&logoColor=white" alt="Verify"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=583A2C556587045564EC7DFDFF0777BE121AB1EA85F963230EF0C8677737E90A">
+        <img src="assets/badges/oracle-ai.png" width="115" alt="Oracle Cloud Infrastructure AI Foundations Associate" />
+      </a><br/>
+      <b>OCI AI Foundations Associate</b><br/>
+      <sub>Oracle Cloud Infrastructure</sub><br/>
+      <code>ID: 583A2C55...</code><br/><br/>
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=583A2C556587045564EC7DFDFF0777BE121AB1EA85F963230EF0C8677737E90A">
+        <img src="https://img.shields.io/badge/Verify-Oracle-C74634?style=flat-square&logo=oracle&logoColor=white" alt="Verify"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/badges/automation-anywhere-rpa.png" width="115" alt="Automation Anywhere Certified Advanced RPA Professional" /><br/>
+      <b>Advanced RPA Professional</b><br/>
+      <sub>Automation Anywhere (Automation 360)</sub><br/>
+      <code>RPA Bot Engineering</code><br/><br/>
+      <img src="https://img.shields.io/badge/Credential-Verified-7A2EBE?style=flat-square" alt="Verified"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/badges/salesforce-ai.svg" width="115" alt="Salesforce Certified AI Associate" /><br/>
+      <b>Salesforce AI Associate</b><br/>
+      <sub>Trusted AI & CRM &bull; Salesforce</sub><br/>
+      <code>Certified AI</code><br/><br/>
+      <img src="https://img.shields.io/badge/Credential-Verified-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Verified"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Cloud%20%26%20AI-Architected-00F2FE?style=for-the-badge" alt="Cloud Certified"/><br/><br/>
+      <b>7+ Industry Credentials</b><br/>
+      <sub>AWS &bull; Red Hat &bull; Oracle<br/>Aviatrix &bull; Salesforce &bull; AA</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Continuous-Learning-success?style=flat-square" alt="Status"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🏆 Top 10 Flagship Projects & Live Workflows
 
 Here is a curated showcase of my top 10 engineering projects, featuring real-world system architecture, live workflow previews, and production-grade implementations.
