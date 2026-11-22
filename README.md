@@ -16,19 +16,19 @@
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  MISSION INDEX: SELECT YOUR CYBER-SECTOR                                                               │
-│  ├── [SECTOR 01] AUTONOMOUS AGENTS & MULTI-AGENT SWARMS (EDWIN, DevPlatform, Runloop, Aevora...)       │
-│  ├── [SECTOR 02] AI EVALUATION, SAFETY & ZERO-DRIFT GATES (Eval-Boundary-Controller, RAG-Attest...)   │
-│  ├── [SECTOR 03] CLOUD RELIABILITY, K8S SRE & DISTRIBUTED ENGINES (target-reconciliation-service...)  │
-│  ├── [SECTOR 04] BARE-METAL PERFORMANCE & HIGH-THROUGHPUT LABS (CoreMach9, LoadMach9...)              │
-│  ├── [SECTOR 05] QUANT PROTOCOLS & RESPONSIBLE GAME THEORY (PioneerCrypto, HouseScript...)             │
-│  └── [SECTOR 06] COMPUTER VISION, SPATIAL OSINT & REAL-TIME GRAPHICS (NeuroMirror, BuildSite...)       │
+│  PROJECT DIRECTORY: CORE ENGINEERING CONCEPTS                                                         │
+│  ├── Autonomous Agents & Multi-Agent Swarms (EDWIN, DevPlatform, Runloop, Aevora...)                  │
+│  ├── AI Evaluation, Safety & Zero-Drift Gates (Eval-Boundary-Controller, RAG-Attest...)              │
+│  ├── Cloud Reliability, Kubernetes SRE & Control Planes (target-reconciliation-service...)             │
+│  ├── Bare-Metal Performance & High-Throughput Systems (CoreMach9, LoadMach9...)                       │
+│  ├── Quantitative Protocols & Game Theory (PioneerCrypto, HouseScript...)                             │
+│  └── Computer Vision, Spatial OSINT & Real-Time Graphics (NeuroMirror, BuildSite, Synoptic...)         │
 └────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 👾 SECTOR 01 // AUTONOMOUS AGENTS & MULTI-AGENT SWARMS
+## Autonomous Agents & Multi-Agent Swarms
 > *Self-directed agent swarms, autonomous browser operations, and cognitive developer workflows.*
 
 ```text
@@ -83,7 +83,7 @@
 
 ---
 
-## 🛡️ SECTOR 02 // AI EVALUATION, SAFETY & ZERO-DRIFT GATES
+## AI Evaluation, Safety & Zero-Drift Gates
 > *Deterministic release gates, sub-millisecond fact verification, and edge attestation engines.*
 
 ```text
@@ -146,7 +146,7 @@
 
 ---
 
-## ☸️ SECTOR 03 // CLOUD RELIABILITY, K8S SRE & DISTRIBUTED ENGINES
+## Cloud Reliability, Kubernetes SRE & Control Planes
 > *Self-healing Kubernetes control planes, zero-trust MCP boundaries, and enterprise multi-account governance.*
 
 ```text
@@ -225,7 +225,7 @@
 
 ---
 
-## ⚡ SECTOR 04 // BARE-METAL PERFORMANCE & HIGH-THROUGHPUT LABS
+## Bare-Metal Performance & High-Throughput Systems
 > *Benchmarking C++ Drogon, RapidJSON, multicore Node.js, and saturation load testing.*
 
 ```text
@@ -256,7 +256,7 @@
 
 ---
 
-## 🪙 SECTOR 05 // QUANT PROTOCOLS & RESPONSIBLE GAME THEORY
+## Quantitative Protocols & Game Theory
 > *Decentralized financial primitives, smart contracts, and transparent stochastic risk modeling.*
 
 ```text
@@ -279,7 +279,7 @@
 
 ---
 
-## 🪞 SECTOR 06 // COMPUTER VISION, SPATIAL OSINT & REAL-TIME GRAPHICS
+## Computer Vision, Spatial OSINT & Real-Time Graphics
 > *Client-side 60 FPS WebGL, Blender PBR procedural generation, and global spatial telemetry.*
 
 ```text
