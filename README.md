@@ -1,3 +1,19 @@
+<div align="center">
+
+<!-- RETRO ARCADE LIVE RADAR ANIMATION -->
+<img src="https://raw.githubusercontent.com/ATLURI0001/ATLURI0001/main/assets/flagship-radar.gif" width="100%" alt="Flagship Systems Radar"/>
+
+<br/>
+
+<!-- DYNAMIC TYPING TELEMETRY -->
+<a href="https://github.com/ATLURI0001">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=00F2FE&center=true&vCenter=true&random=false&width=820&height=45&lines=%E2%9A%A1+37+COMBAT-TESTED+SYSTEMS+%E2%80%A2+HIGH-THROUGHPUT+%26+ZERO-DRIFT;%F0%9F%A4%96+AUTONOMOUS+AGENT+SWARMS+%E2%80%A2+WEARABLE+VISION+OSINT;%F0%9F%9B%A1%EF%B8%8F+SUB-MS+FACT+VERIFICATION+%E2%80%A2+45K%2B+EVALS%2FSEC+%E2%80%A2+RUST+WILSON+GATES;%E2%98%B8%EF%B8%8F+K8S+SELF-HEALING+CONTROL+PLANES+%E2%80%A2+ZERO-TRUST+MCP+BOUNDARIES;%F0%9F%94%A5+C%2B%2B+DROGON+250K%2B+RPS+%E2%80%A2+CLIENT-SIDE+60+FPS+WEBGL+X-RAY" alt="Typing Telemetry"/>
+</a>
+
+</div>
+
+---
+
 ## Autonomous Agents & Multi-Agent Swarms
 
 | Project | Short Pitch | Tech Arsenal |
